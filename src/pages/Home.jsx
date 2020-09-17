@@ -12,6 +12,7 @@ function Home() {
       />
       <div className="home__row">
         <Product
+          id={12312312}
           title={
             'Apple watch Apple watch Apple watch Apple watch  Apple watch Apple watch Apple watch Apple watchApple watch Apple watch Apple watch Apple watch'
           }
@@ -20,6 +21,7 @@ function Home() {
           rating={4}
         />
         <Product
+          id={12312312}
           title={
             'Apple watch Apple watch Apple watch Apple watch  Apple watch Apple watch Apple watch Apple watchApple watch Apple watch Apple watch Apple watch'
           }
@@ -28,6 +30,7 @@ function Home() {
           rating={4}
         />
         <Product
+          id={12312312}
           title={
             'Apple watch Apple watch Apple watch Apple watch  Apple watch Apple watch Apple watch Apple watchApple watch Apple watch Apple watch Apple watch'
           }
@@ -38,6 +41,7 @@ function Home() {
       </div>
       <div className="home__row">
         <Product
+          id={12312315}
           title={
             'Apple watch Apple watch Apple watch Apple watch  Apple watch Apple watch Apple watch Apple watchApple watch Apple watch Apple watch Apple watch'
           }
@@ -46,6 +50,7 @@ function Home() {
           rating={4}
         />
         <Product
+          id={12312316}
           title={
             'Apple watch Apple watch Apple watch Apple watch  Apple watch Apple watch Apple watch Apple watchApple watch Apple watch Apple watch Apple watch'
           }
